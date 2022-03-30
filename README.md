@@ -7,8 +7,6 @@ I'm Leonardo Tonezi, but you can call me Leo! I'm a software developer 👨‍�
 💬 Ask me about: philosofy, games, books
 ⚡ Languages: Python, PHP, Javascript
 
-![leonardoademir github stats](https://github-readme-stats.vercel.app/api?username=leonardoademir&show_icons=true&hide_border=true)
-
 <br>
 
   <a href="https://in.linkedin.com/in/leonardo-ademir-tonezi-dos-santos-8a431890">
