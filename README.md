@@ -2,10 +2,10 @@
 
 I'm Leonardo Tonezi, but you can call me Leo! I'm a software developer 👨‍💻 and a lover of open source community, also a music enthusiast :guitar: and poetry writer :memo: in my spare time.
 
-:hammer: Currently working on a Health Care System
-🌱 Currently learning about Flutter and improving my React.js skills
-💬 Ask me about: philosofy, games, books
-⚡ Languages: Python, PHP, Javascript
+:hammer: Currently working on a Health Care System<br>
+🌱 Currently learning about Flutter and improving my React.js skills<br>
+💬 Ask me about: philosofy, games, books<br>
+⚡ Languages: Python, PHP, Javascript<br>
 
 <br>
 
