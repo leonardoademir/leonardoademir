@@ -5,7 +5,7 @@ I'm Leonardo Tonezi, but you can call me Leo! I'm a software developer 👨‍�
 :hammer: Currently working on a Health Care System<br>
 🌱 Currently learning about Flutter and improving my React.js skills<br>
 💬 Ask me about: philosofy, games, books<br>
-⚡ Languages: Python, PHP, Javascript<br>
+⚡ Languages: Python (**Django, Flask**), PHP (**Laravel**), Javascript(**Node.js, React.js, Angular.js**)<br>
 
 <br>
 
