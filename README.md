@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px"> What's up!&nbsp;
+What's up!&nbsp;
 
 I'm Leonardo Tonezi, but you can call me Leo! I'm a software developer 👨‍💻 and a lover of open source community :heartbeat:, also a music enthusiast :guitar: and poetry writer :memo: in my spare time.
 
