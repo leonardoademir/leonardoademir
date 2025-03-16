@@ -2,7 +2,6 @@ What's up!&nbsp;
 
 I'm Leonardo Tonezi, but you can call me Leo! I'm a software developer 👨‍💻 and a lover of open source community :heartbeat:, also a music enthusiast :guitar: and poetry writer :memo: in my spare time.
 
-:hammer: Currently working on a Health Care System<br>
 🌱 Currently learning about NextJS<br>
 💬 Ask me about: philosophy, games, books<br>
 ⚡ Python (**Django, Flask**) || PHP (**Laravel**) || JS/TS (**Node.js, React.js, Angular.js**)<br>
